@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmadsafrizal.github.io/ahmad-safrizal/](https://ahmadsafrizal.github.io/ahmad-safrizal/)
 
-- 📫 How to reach me **ahmad.safrizal.16@gmail.com**
+- 📫 How to reach me **ahmadsafrizal01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
