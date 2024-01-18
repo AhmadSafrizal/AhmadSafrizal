@@ -21,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsafrizal&show_icons=true&locale=en" alt="ahmadsafrizal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsafrizal&" alt="ahmadsafrizal" /></p>
+
+## Coding Activity
+
+<a href="https://github.com/ahmadsafrizal"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadsafrizal&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
