@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://ahmadsafrizal.github.io/ahmad-safrizal/](https://safrizal.my.id/)
+- 👨‍💻 All of my projects are available at [https://safrizal.my.id/](https://safrizal.my.id/)
 
 - 📫 How to reach me **ahmadsafrizal01@gmail.com**
 
